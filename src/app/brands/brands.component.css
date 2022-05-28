@@ -1,0 +1,89 @@
+.top-brands {
+  position: absolute;
+  top: 792px;
+  left: 634px;
+  width: 172px;
+  height: 19px;
+  text-align: left;
+  font: normal normal normal 16px/46px Roboto;
+  letter-spacing: 2.2px;
+  color: #303030;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.eaton {
+  position: absolute;
+  top: 869px;
+  left: 108px;
+  width: 115px;
+  height: 32px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.leviton {
+  position: absolute;
+  top: 865px;
+  left: 327px;
+  width: 123px;
+  height: 40px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.siemens {
+  position: absolute;
+  top: 874px;
+  left: 558px;
+  width: 145px;
+  height: 23px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.olutron {
+  position: absolute;
+  top: 869px;
+  left: 792px;
+  width: 138px;
+  height: 32px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.wattstopper {
+  position: absolute;
+  top: 873px;
+  left: 1008px;
+  width: 144px;
+  height: 24px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.kleintools {
+  position: absolute;
+  top: 855px;
+  left: 1224px;
+  width: 109px;
+  height: 42px;
+  text-decoration: none;
+  color: black;
+  opacity: 1;
+}
+
+.see-brands {
+  position: absolute;
+  top: 959px;
+  left: 631px;
+  width: 177px;
+  height: 43px;
+  font: normal normal normal 13px/37px Roboto;
+  letter-spacing: 1.95px;
+  color: #303030;
+  text-transform: uppercase;
+  cursor: pointer;
+  opacity: 1;
+}
+
