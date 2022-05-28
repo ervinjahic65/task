@@ -1,66 +1,88 @@
 .headerTop {
+  position: absolute;
+  top: 0px;
+  left: 0px;
   width: 1440px;
   height: 37px;
-  text-align: center;
   background-color: #8DB9CA;
-  margin-left: 115px;
+  opacity: 1;
 }
 
 .header-top-text {
+  position: absolute;
+  top: 7px;
+  left: 573px;
+  width: 294px;
+  height: 11px;
+  text-align: left;
   font: normal normal bold 11px/13px Josefin Sans;
-  padding-top: 14px;
   letter-spacing: 1.65px;
   color: #FFFFFF;
   text-transform: uppercase;
   opacity: 1;
-  margin-bottom: 2px;
 }
 
-.main-navigation {
-  position: absolute;
-  margin-left: 47%;
-  margin-top: 15px;
-}
-
-.navmenu {
-  height: 60px;
-  margin-left: 330px;
-  width: 1000px;
-  clear: both;
-  text-align: center;
-}
-
-.leftMenu {
-  float: left;
-  position: absolute;
-}
-
-ul li {
+.navmenu .leftMenu ul li {
   list-style: none;
   text-decoration: none;
-  margin: 25px;
-  float: left;
-  width: 43px;
-  height: 13px;
-  color: var(--unnamed-color-221f20);
-  font: normal normal bold 13px/16px Josefin Sans;
-  letter-spacing: 1.95px;
-  color: #221f20;
-  text-transform: uppercase;
-  opacity: 1;
   cursor: pointer;
 }
 
-.rightMenu {
-  float: right;
+.nav-shop {
+  position: absolute;
+  top: 64px;
+  left: 75px;
+  width: 43px;
+  height: 13px;
+  text-align: left;
+  font: normal normal bold 13px/16px Josefin Sans;
+  letter-spacing: 1.95px;
+  color: #221F20;
+  text-transform: uppercase;
+  opacity: 1;
 }
 
-.badge {
-  top: 58px;
-  left: 1341px;
-  width: 24px;
-  height: 24px;
-  background: var(--unnamed-color-659ab1) 0% 0% no-repeat padding-box;
-  background: #659AB1 0% 0% no-repeat padding-box;
-  opacity: 0.3;
+.our-story {
+  position: absolute;
+  top: 64px;
+  left: 180px;
+  width: 93px;
+  height: 13px;
+  text-align: left;
+  font: normal normal bold 13px/16px Josefin Sans;
+  letter-spacing: 1.95px;
+  color: #221F20;
+  text-transform: uppercase;
+  opacity: 1;
 }
+
+.main-navigation .espro-nav {
+  position: absolute;
+  top: 56px;
+  left: 660px;
+  width: 121px;
+  height: 28px;
+  background: no-repeat padding-box;
+  opacity: 1;
+}
+
+.navmenu .rightMenu ul li {
+  list-style: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.brew-guids {
+  position: absolute;
+  top: 64px;
+  left: 974px;
+  width: 113px;
+  height: 13px;
+  text-align: left;
+  font: normal normal bold 13px/16px Josefin Sans;
+  letter-spacing: 1.95px;
+  color: #221F20;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
