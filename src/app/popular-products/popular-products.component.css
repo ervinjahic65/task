@@ -1,0 +1,244 @@
+.popular-products {
+  position: absolute;
+  top: 1889px;
+  left: 45px;
+  width: 213px;
+  height: 42px;
+  text-align: left;
+  font: normal normal 600 28px/50px Barlow Condensed;
+  letter-spacing: 0px;
+  color: #303030;
+  opacity: 1;
+}
+
+.vertical-line {
+  position: absolute;
+  top: 1936px;
+  left: 283px;
+  width: 96px;
+  height: 0px;
+  border: 1px solid #303030;
+  opacity: 1;
+}
+
+.shop-all {
+  position: absolute;
+  top: 1912px;
+  left: 1283px;
+  width: 58px;
+  height: 19px;
+  text-align: center;
+  font: normal normal normal 16px/30px Roboto;
+  letter-spacing: 0px;
+  color: #303030;
+  opacity: 1;
+}
+
+.arrow-right {
+  position: absolute;
+  top: 1937px;
+  left: 1356px;
+  width: 34px;
+  height: 8px;
+  background: transparent url('../../assets/img/Group445.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.elite {
+  position: absolute;
+  top: 1966px;
+  left: 45px;
+  width: 315px;
+  height: 320px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.elite-text {
+  position: absolute;
+  top: 2300px;
+  left: 45px;
+  width: 27px;
+  height: 17px;
+  text-align: left;
+  font: normal normal 600 14px/62px Barlow Condensed;
+  letter-spacing: 0px;
+  color: #303030;
+  opacity: 1;
+}
+
+.led-sm {
+  position: absolute;
+  top: 2335px;
+  left: 45px;
+  width: 120px;
+  height: 19px;
+  text-align: left;
+  font: normal normal normal 16px/62px Roboto;
+  letter-spacing: 0px;
+  color: #303030;
+  opacity: 1;
+}
+
+.led-sm-text {
+  position: absolute;
+  top: 2380px;
+  left: 45px;
+  width: 240px;
+  height: 40px;
+  color: var(--unnamed-color-6d6d6d);
+  text-align: left;
+  font: normal normal 300 15px/22px Roboto;
+  letter-spacing: 0px;
+  color: #6D6D6D;
+  opacity: 1;
+}
+
+.dmf {
+  position: absolute;
+  top: 1966px;
+  left: 390px;
+  width: 315px;
+  height: 320px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.dmf-text {
+  position: absolute;
+  top: 2300px;
+  left: 390px;
+  width: 140px;
+  height: 17px;
+  text-align: left;
+  font: normal normal 600 14px/62px Barlow Condensed;
+  letter-spacing: 0px;
+  color: #303030;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.dmf-heading{
+  position: absolute;
+  top: 2335px;
+  left: 390px;
+  width: 180px;
+  height: 19px;
+  text-align: left;
+  font: normal normal normal 16px/62px Roboto;
+  letter-spacing: 0px;
+  color: #303030;
+  opacity: 1;
+}
+
+.dmf-description {
+  position: absolute;
+  top: 2380px;
+  left: 390px;
+  width: 177px;
+  height: 18px;
+  text-align: left;
+  font: normal normal 300 15px/22px Roboto;
+  letter-spacing: 0px;
+  color: #6D6D6D;
+  opacity: 1;
+}
+
+.elite-f {
+  position: absolute;
+  top: 1966px;
+  left: 735px;
+  width: 315px;
+  height: 320px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.elite-f-text {
+  position: absolute;
+  top: 2300px;
+  left: 735px;
+  width: 27px;
+  height: 17px;
+  text-align: left;
+  font: normal normal 600 14px/62px Barlow Condensed;
+  letter-spacing: 0px;
+  color: #303030;
+  opacity: 1;
+}
+
+.elite-f-heading {
+  position: absolute;
+  top: 2335px;
+  left: 735px;
+  width: 185px;
+  height: 19px;
+  text-align: left;
+  font: normal normal normal 16px/62px Roboto;
+  letter-spacing: 0px;
+  color: #303030;
+  opacity: 1;
+}
+
+.elite-f-description {
+  position: absolute;
+  top: 2380px;
+  left: 735px;
+  width: 283px;
+  height: 40px;
+  text-align: left;
+  font: normal normal 300 15px/22px Roboto;
+  letter-spacing: 0px;
+  color: #6D6D6D;
+  opacity: 1;
+}
+
+.westgate {
+  position: absolute;
+  top: 1966px;
+  left: 1080px;
+  width: 315px;
+  height: 320px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.westgate-text {
+  position: absolute;
+  top: 2300px;
+  left: 1080px;
+  width: 52px;
+  height: 17px;
+  text-align: left;
+  font: normal normal 600 14px/62px Barlow Condensed;
+  letter-spacing: 0px;
+  color: #303030;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.westgate-heading {
+  position: absolute;
+  top: 2335px;
+  left: 1080px;
+  width: 153px;
+  height: 19px;
+  text-align: left;
+  font: normal normal normal 16px/62px Roboto;
+  letter-spacing: 0px;
+  color: #303030;
+  opacity: 1;
+}
+
+.westgate-description {
+  position: absolute;
+  top: 2380px;
+  left: 1080px;
+  width: 283px;
+  height: 40px;
+  text-align: left;
+  font: normal normal 300 15px/22px Roboto;
+  letter-spacing: 0px;
+  color: #6D6D6D;
+  opacity: 1;
+}

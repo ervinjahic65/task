@@ -51,10 +51,11 @@
 
 .arrow-right {
   position: absolute;
-  top: 570px;
+  top: 575px;
   left: 275px;
   width: 34px;
-  height: 0px;
+  height: 8px;
+  background: transparent url('../../assets/img/Group445.png') 0% 0% no-repeat padding-box;
   opacity: 1;
 }
 
