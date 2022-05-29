@@ -1,0 +1,134 @@
+
+
+
+.controls-img {
+  position: absolute;
+  top: 1182px;
+  left: -185px;
+  width: 430px;
+  height: 607px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.control-text {
+  position: absolute;
+  top: 1513px;
+  left: -150px;
+  width: 331px;
+  height: 66px;
+  text-align: left;
+  font: normal normal 600 54px/56px Barlow Condensed;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+.shop-now {
+  position: absolute;
+  top: 1699px;
+  left: -150px;
+  width: 168px;
+  height: 50px;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.indoor-img {
+  position: absolute;
+  top: 1182px;
+  left: 275px;
+  width: 430px;
+  height: 607px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.indoor-text {
+  position: absolute;
+  top: 1513px;
+  left: 310px;
+  width: 294px;
+  height: 66px;
+  text-align: left;
+  font: normal normal 600 54px/56px Barlow Condensed;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+.shop-now-indoor {
+  position: absolute;
+  top: 1699px;
+  left: 310px;
+  width: 168px;
+  height: 50px;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.outdoor-img {
+  position: absolute;
+  top: 1182px;
+  left: 735px;
+  width: 430px;
+  height: 607px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.outdoor-text {
+  position: absolute;
+  top: 1513px;
+  left: 770px;
+  width: 323px;
+  height: 66px;
+  text-align: left;
+  font: normal normal 600 54px/56px Barlow Condensed;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+.shop-now-outdoor {
+  position: absolute;
+  top: 1699px;
+  left: 770px;
+  width: 168px;
+  height: 50px;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.safety {
+  position: absolute;
+  top: 1182px;
+  left: 1195px;
+  width: 430px;
+  height: 607px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.safety-text {
+  position: absolute;
+  top: 1488px;
+  left: 1230px;
+  width: 341px;
+  height: 66px;
+  text-align: left;
+  font: normal normal 600 55px/72px Barlow Condensed;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+.shop-now-safety {
+  position: absolute;
+  top: 1694px;
+  left: 1230px;
+  width: 168px;
+  height: 50px;
+  cursor: pointer;
+  opacity: 1;
+}
