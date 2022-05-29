@@ -11,6 +11,7 @@ import { ProductsComponent } from './products/products.component';
 import { PopularProductsComponent } from './popular-products/popular-products.component';
 import { MissionComponent } from './mission/mission.component';
 import { GalleryComponent } from './gallery/gallery.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { GalleryComponent } from './gallery/gallery.component';
     ProductsComponent,
     PopularProductsComponent,
     MissionComponent,
-    GalleryComponent
+    GalleryComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
