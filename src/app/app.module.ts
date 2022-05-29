@@ -9,6 +9,7 @@ import { HeroComponent } from './hero/hero.component';
 import { BrandsComponent } from './brands/brands.component';
 import { ProductsComponent } from './products/products.component';
 import { PopularProductsComponent } from './popular-products/popular-products.component';
+import { MissionComponent } from './mission/mission.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { PopularProductsComponent } from './popular-products/popular-products.co
     HeroComponent,
     BrandsComponent,
     ProductsComponent,
-    PopularProductsComponent
+    PopularProductsComponent,
+    MissionComponent
   ],
   imports: [
     BrowserModule,
