@@ -10,6 +10,7 @@ import { BrandsComponent } from './brands/brands.component';
 import { ProductsComponent } from './products/products.component';
 import { PopularProductsComponent } from './popular-products/popular-products.component';
 import { MissionComponent } from './mission/mission.component';
+import { GalleryComponent } from './gallery/gallery.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { MissionComponent } from './mission/mission.component';
     BrandsComponent,
     ProductsComponent,
     PopularProductsComponent,
-    MissionComponent
+    MissionComponent,
+    GalleryComponent
   ],
   imports: [
     BrowserModule,
