@@ -12,12 +12,9 @@ export class ProductsComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  imgCollection: Array<object> = [
+  imageObject: Array<object> = [
     {
-      image: '../../assets/img/Rectangle 185.png',
-      thumbImage: '../../assets/img/Rectangle 179.png',
-      alt: 'Image 1',
-      title: 'Image 1'
+
     }
   ];
 
