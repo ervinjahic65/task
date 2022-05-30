@@ -1,0 +1,158 @@
+#navigation {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 80px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.group {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+  width: 108px;
+  height: 58px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.central-nav ul li {
+  list-style: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.central-nav ul li a {
+  text-decoration: none;
+}
+
+.indoor {
+  position: absolute;
+  top: 32px;
+  left: 325px;
+  width: 43px;
+  height: 18px;
+  text-align: left;
+  font: normal normal normal 15px/26px Roboto;
+  letter-spacing: 0px;
+  color: #303030;
+  opacity: 1;
+}
+
+.outdoor {
+  position: absolute;
+  top: 32px;
+  left: 432px;
+  width: 54px;
+  height: 18px;
+  text-align: left;
+  font: normal normal normal 15px/26px Roboto;
+  letter-spacing: 0px;
+  color: #303030;
+  opacity: 1;
+}
+
+.lighting-controls {
+  position: absolute;
+  top: 32px;
+  left: 550px;
+  width: 114px;
+  height: 18px;
+  text-align: left;
+  font: normal normal normal 15px/26px Roboto;
+  letter-spacing: 0px;
+  color: #303030;
+  opacity: 1;
+}
+
+.safety-security {
+  position: absolute;
+  top: 32px;
+  left: 728px;
+  width: 112px;
+  height: 18px;
+  text-align: left;
+  font: normal normal normal 15px/26px Roboto;
+  letter-spacing: 0px;
+  color: #303030;
+  opacity: 1;
+}
+
+.electrical {
+  position: absolute;
+  top: 32px;
+  left: 904px;
+  width: 61px;
+  height: 18px;
+  text-align: left;
+  font: normal normal normal 15px/26px Roboto;
+  letter-spacing: 0px;
+  color: #303030;
+  opacity: 1;
+}
+
+.heating-air {
+  position: absolute;
+  top: 32px;
+  left: 1029px;
+  width: 87px;
+  height: 18px;
+  text-align: left;
+  font: normal normal normal 15px/26px Roboto;
+  letter-spacing: 0px;
+  color: #303030;
+  opacity: 1;
+}
+
+.search {
+  position: absolute;
+  top: 30px;
+  left: 1247px;
+  width: 20px;
+  height: 20px;
+  opacity: 1;
+}
+
+.user {
+  position: absolute;
+  top: 30px;
+  left: 1307px;
+  width: 20px;
+  height: 22px;
+  opacity: 1;
+}
+
+.shop {
+  position: absolute;
+  top: 31px;
+  left: 1366px;
+  width: 23px;
+  height: 22px;
+  opacity: 1;
+}
+
+.badge {
+  position: absolute;
+  top: 28px;
+  left: 1380px;
+  width: 15px;
+  height: 15px;
+  background: #3693E0 0% 0% no-repeat padding-box;
+  border-radius: 50%;
+  opacity: 1;
+}
+
+.not-num {
+  position: absolute;
+  top: 14px;
+  left: 1385px;
+  width: 6px;
+  height: 11px;
+  text-align: left;
+  font: normal normal normal 10px/46px Roboto;
+  letter-spacing: 1.5px;
+  color: #FFFFFF;
+  opacity: 1;
+}
