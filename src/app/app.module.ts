@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { RouterModule } from '@angular/router';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -12,6 +13,7 @@ import { PopularProductsComponent } from './popular-products/popular-products.co
 import { MissionComponent } from './mission/mission.component';
 import { GalleryComponent } from './gallery/gallery.component';
 import { FooterComponent } from './footer/footer.component';
+import { SearchComponent } from './search/search.component';
 
 @NgModule({
   declarations: [
@@ -23,12 +25,14 @@ import { FooterComponent } from './footer/footer.component';
     PopularProductsComponent,
     MissionComponent,
     GalleryComponent,
-    FooterComponent
+    FooterComponent,
+    SearchComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    NgImageSliderModule
+    NgImageSliderModule,
+    RouterModule
   ],
   providers: [],
   bootstrap: [AppComponent]
