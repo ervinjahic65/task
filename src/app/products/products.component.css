@@ -181,3 +181,80 @@
   font: normal normal normal 15px/46px Roboto;
   opacity: 1;
 }
+
+/* Responsive web design */
+
+@media only screen and (max-width: 1200px) {
+  .right-slide {
+    left: 990px;
+  }
+  .slide-4 {
+    visibility: hidden;
+  }
+  .outdoor-img {
+    width: 300px;
+  }
+}
+
+@media only screen and (max-width: 1055px) {
+  .right-slide {
+    left: 930px;
+  }
+  .outdoor-img {
+    width: 240px;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .slide-3 {
+    visibility: hidden;
+  }
+  .slide-2 {
+    position: absolute;
+    left: 260px;
+  }
+  .slide-1 {
+    position: absolute;
+    left: 250px;
+  }
+  .right-slide {
+    left: 910px;
+  }
+  .left-slide {
+    left: 65px;
+  }
+}
+
+@media only screen and (max-width: 970px) {
+  .indoor-img {
+    width: 315px;
+  }
+  .right-slide {
+    left: 800px;
+  }
+}
+
+@media only screen and (max-width: 865px) {
+  .slide-1 {
+    left: 0;
+  }
+  .left-slide {
+    left: 0;
+  }
+  .slide-2 {
+    left: 10px;
+  }
+  .indoor-img {
+    width: 468px;
+  }
+  .right-slide {
+    left: 710px;
+  }
+
+}
+
+@media only screen and (max-width: 770px) {
+  .right-slide {
+    left: 700px;
+  }
+}
