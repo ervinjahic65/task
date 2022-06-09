@@ -28,6 +28,24 @@
   text-decoration: none;
 }
 
+.responsive-button {
+  position: absolute;
+  left: 300px;
+  top: 25px;
+  list-style: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.responsive-button i {
+  text-decoration: none;
+  color: #303030;
+}
+
+.responsive-button {
+  display: none;
+}
+
 .indoor {
   position: absolute;
   top: 32px;
@@ -133,7 +151,7 @@
   opacity: 1;
 }
 
-.badge {
+.badgeBlue {
   position: absolute;
   top: 28px;
   left: 1380px;
@@ -155,4 +173,93 @@
   letter-spacing: 1.5px;
   color: #FFFFFF;
   opacity: 1;
+}
+
+/* Responsive web design */
+
+@media only screen and (max-width: 1200px) {
+  #navigation {
+    width: 1200px;
+  }
+  .indoor {
+    left: 205px;
+  }
+  .outdoor {
+    left: 262px;
+  }
+  .lighting-controls {
+    left: 330px;
+  }
+  .safety-security {
+    left: 458px;
+  }
+  .electrical {
+    left: 584px;
+  }
+  .heating-air {
+    left: 669px;
+  }
+  .search {
+    left: 827px;
+  }
+  .user {
+    left: 883px;
+  }
+  .shop {
+    left: 946px;
+  }
+  .badgeBlue {
+    left: 960px;
+  }
+  .not-num {
+    left: 965px;
+  }
+
+  @media only screen and (max-width: 1000px) {
+   .responsive-button {
+      display: block;
+    }
+    .indoor, .outdoor, .lighting-controls, .safety-security, .electrical, .heating-air {
+      display: none;
+    }
+    .search {
+      left: 500px;
+    }
+    .user {
+      left: 550px;
+    }
+    .shop {
+      left: 590px;
+    }
+    .badgeBlue {
+      left: 600px;
+    }
+    .not-num {
+      left: 605px;
+    }
+
+  }
+
+  @media only screen and (max-width: 635px) {
+    .responsive-button {
+      display: block;
+      left: 200px;
+    }
+    .search {
+      left: 370px;
+    }
+    .user {
+      left: 410px;
+    }
+    .shop {
+      left: 450px;
+    }
+    .badgeBlue {
+      left: 460px;
+    }
+    .not-num {
+      left: 465px;
+    }
+  }
+
 }
