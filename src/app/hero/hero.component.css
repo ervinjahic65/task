@@ -79,3 +79,63 @@
   background: transparent url('../../assets/img/Rectangle 170.png') 0% 0% no-repeat padding-box;
   opacity: 1;
 }
+
+/* Responsive web design */
+
+@media only screen and (max-width: 1200px) {
+  .placeholder-text {
+    font: normal normal normal 12px/46px Roboto;
+    width: 169px;
+  }
+  .lorem-heading {
+    font: normal normal 600 44px/56px Barlow Condensed;
+  }
+  .central-image {
+    left: 330px;
+  }
+  .hero {
+    left: 395px;
+    width: 580px;
+    height: 492px;
+  }
+
+  @media only screen and (max-width: 1000px) {
+    .horizontal-line {
+      top: 139px;
+    }
+    .placeholder-text {
+      top: 139px;
+      left: 250px;
+    }
+    .lorem-heading {
+      top: 185px;
+      left: 250px;
+    }
+    .shop-indoor {
+      top: 450px;
+      left: 250px;
+    }
+    .arrow-right {
+      top: 475px;
+      left: 420px;
+    }
+    .central-image {
+      top: 550px;
+      left: 50px;
+    }
+    .hero {
+      top: 550px;
+      left: 125px;
+    }
+  }
+
+  @media only screen and (max-width: 740px) {
+    .hero {
+      left: 175px;
+      width: 380px;
+    }
+    .central-image {
+      display: none;
+    }
+  }
+}
