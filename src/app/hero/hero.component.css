@@ -120,12 +120,13 @@
       left: 420px;
     }
     .central-image {
-      top: 550px;
+      top: 460px;
       left: 50px;
     }
     .hero {
       top: 550px;
       left: 125px;
+      height: 400px;
     }
   }
 
