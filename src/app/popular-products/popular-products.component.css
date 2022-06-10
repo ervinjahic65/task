@@ -24,7 +24,7 @@
 .shop-all {
   position: absolute;
   top: 1912px;
-  left: 935px;
+  left: 1283px;
   width: 58px;
   height: 19px;
   text-align: center;
@@ -37,7 +37,7 @@
 .arrow-right {
   position: absolute;
   top: 1937px;
-  left: 1015px;
+  left: 1356px;
   width: 34px;
   height: 8px;
   background: transparent url('../../assets/img/Group445.png') 0% 0% no-repeat padding-box;
@@ -246,6 +246,12 @@
 /* Responsive web design */
 
 @media only screen and (max-width: 1200px) {
+  .shop-all {
+    left: 935px;
+  }
+  .arrow-right {
+    left: 1015px;
+  }
   .elite {
     width: 240px;
   }
