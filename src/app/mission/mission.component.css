@@ -83,7 +83,7 @@
 .our-blog {
   position: absolute;
   top: 3339px;
-  left: 1171px;
+  left: 1071px;
   width: 161px;
   height: 19px;
   text-align: right;
@@ -96,7 +96,7 @@
 .arrow-right-blog {
   position: absolute;
   top: 3365px;
-  left: 1345px;
+  left: 1245px;
   width: 34px;
   height: 8px;
   background: transparent url('../../assets/img/Group445.png') 0% 0% no-repeat padding-box;
@@ -254,4 +254,78 @@
   color: #6D6D6D;
   text-overflow: ellipsis;
   opacity: 1;
+}
+
+/* Responsive web design */
+
+@media only screen and (max-width: 1400px) {
+  .our-mission {
+    left: 50px;
+  }
+  .vertical-line {
+    left: 680px;
+  }
+  .our-mission-heading, .our-mission-description, .more-about-us {
+    left: 830px;
+  }
+  .arrow-right {
+    left: 940px;
+  }
+  .in-the-news {
+    left: 55px;
+  }
+  .our-blog {
+    left: 855px;
+  }
+  .arrow-right-blog {
+    left: 1035px;
+  }
+  .category-1, .category-1-title, .article-1, .lorem-1 {
+    left: 55px;
+  }
+  .category-2, .category-2-title, .article-2, .lorem-2 {
+    left: 405px;
+  }
+  .category-3, .category-3-title, .article-3, .lorem-3 {
+    left: 755px;
+  }
+}
+@media only screen and (max-width: 1265px) {
+  .our-mission {
+    top: 2920px;
+    width: 458px;
+  }
+  .vertical-line {
+    top: 2965px;
+    left: 395px;
+  }
+  .our-mission-heading, .our-mission-description, .more-about-us {
+    left: 560px;
+  }
+  .our-mission-heading {
+    top: 2970px;
+  }
+  .our-mission-description {
+    top: 3060px;
+  }
+  .more-about-us {
+    top: 3260px;
+  }
+  .arrow-right {
+    top: 3285px;
+    left: 690px;
+  }
+  .in-the-news {
+    top: 3395px;
+  }
+  .our-blog {
+    top: 3430px;
+  }
+  .arrow-right-blog {
+    top: 3455px;
+  }
+}
+
+@media only screen and (max-width: 990px) {
+
 }
