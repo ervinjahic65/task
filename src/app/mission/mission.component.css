@@ -326,6 +326,112 @@
   }
 }
 
-@media only screen and (max-width: 990px) {
+@media only screen and (max-width: 1100px) {
+  .our-mission {
+    left: 200px;
+  }
+  .vertical-line {
+    left: 400px;
+  }
+  .our-mission-heading {
+    top: 3450px;
+    left: 250px;
+  }
+  .our-mission-description {
+    top: 3555px;
+    left: 250px;
+  }
+  .more-about-us {
+    top: 3770px;
+    left: 250px;
+  }
+  .arrow-right {
+    top: 3795px;
+    left: 370px;
+  }
+  .in-the-news {
+    top: 3860px;
+  }
+  .our-blog {
+    top: 3895px;
+    left: 300px;
+  }
+  .arrow-right-blog {
+    top: 3920px;
+    left: 470px;
+  }
+  .category-1 {
+    top: 4000px;
+  }
+  .category-1-title {
+    top: 4165px;
+  }
+  .article-1 {
+    top: 4120px;
+  }
+  .lorem-1 {
+    top: 4240px;
+  }
+  .category-2 {
+    top: 4000px;
+  }
+  .category-2-title {
+    top: 4165px;
+  }
+  .article-2 {
+    top: 4210px;
+  }
+  .lorem-2 {
+    top: 4240px;
+  }
+  .category-3 {
+    top: 4350px;
+    left: 50px;
+  }
+  .category-3-title {
+    top: 4510px;
+    left: 50px;
+  }
+  .article-3 {
+    top: 4550px;
+    left: 50px;
+  }
+  .lorem-3 {
+    top: 4580px;
+    left: 50px;
+  }
+}
 
+@media only screen and (max-width: 747px) {
+  .our-mission, .our-mission-heading, .our-mission-description, .more-about-us {
+    left: 50px;
+  }
+  .vertical-line {
+    left: 250px;
+  }
+  .arrow-right {
+    left: 200px;
+  }
+  .our-blog {
+    left: 160px;
+  }
+  .arrow-right-blog {
+    left: 330px;
+  }
+  .category-2 {
+    top: 4700px;
+    left: 50px;
+  }
+  .category-2-title {
+    top: 4870px;
+    left: 50px;
+  }
+  .article-2 {
+    top: 4915px;
+    left: 50px;
+  }
+  .lorem-2 {
+    top: 4945px;
+    left: 50px;
+  }
 }
