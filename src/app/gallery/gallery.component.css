@@ -114,3 +114,83 @@
   background: transparent 0% 0% no-repeat padding-box;
   opacity: 1;
 }
+
+/* Responsive web design */
+
+@media only screen and (max-width: 1420px) {
+  .follow-us-instagram {
+    left: 400px;
+  }
+  .rock-lighting {
+    left: 460px;
+  }
+  .horizontal-line {
+    left: 560px;
+  }
+  .pic-4 {
+    top: 4733px;
+    left: 45px;
+  }
+  .pic-8 {
+    top: 4733px;
+    left: 382px;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  .follow-us-instagram {
+    top: 4645px;
+    left: 240px;
+  }
+  .rock-lighting {
+    top: 4710px;
+    left: 310px;
+  }
+  .horizontal-line {
+    display: none;
+  }
+  .pic-1, .pic-2 {
+    top: 4832px;
+  }
+  .pic-5, .pic-6 {
+    top: 5170px;
+  }
+  .pic-4, .pic-8 {
+    top: 5509px;
+  }
+  .pic-3 {
+    top: 5847px;
+    left: 45px;
+  }
+  .pic-7 {
+    top: 5847px;
+    left: 382px;
+  }
+}
+@media only screen and (max-width: 747px) {
+  .follow-us-instagram {
+    top: 5145px;
+    left: 240px;
+  }
+  .rock-lighting {
+    top: 5210px;
+    left: 310px;
+  }
+  .pic-1, .pic-2 {
+    top: 5332px;
+  }
+  .pic-5, .pic-6 {
+    top: 5670px;
+  }
+  .pic-4, .pic-8 {
+    top: 6009px;
+  }
+  .pic-3 {
+    top: 6347px;
+    left: 45px;
+  }
+  .pic-7 {
+    top: 6347px;
+    left: 382px;
+  }
+}
