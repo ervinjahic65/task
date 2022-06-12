@@ -250,3 +250,180 @@ input:focus {
   color: #6D6D6D;
   opacity: 1;
 }
+
+/* Responsive web design */
+
+@media only screen and (max-width: 1420px) {
+  .rock-logo {
+    top: 5352px;
+  }
+  .shop-heading {
+    top: 5352px;
+    left: 235px;
+  }
+  .shop-items {
+    top: 5389px;
+    left: 235px;
+  }
+  .company-heading {
+    top: 5352px;
+    left: 400px;
+  }
+  .company-items {
+    top: 5389px;
+    left: 400px;
+  }
+  .customer-service {
+    top: 5352px;
+    left: 500px;
+  }
+  .customer-service-items {
+    top: 5389px;
+    left: 500px;
+  }
+  .follow-us {
+    top: 5352px;
+    left: 680px;
+  }
+  .instagram, .facebook, .linkedin, .youtube {
+    top: 5409px;
+  }
+  .instagram {
+    left: 680px;
+  }
+  .facebook {
+    left: 715px;
+  }
+  .linkedin {
+    left: 745px;
+  }
+  .youtube {
+    left: 785px;
+  }
+  .newsletter {
+    top: 5464px;
+    left: 680px;
+  }
+  .your-email {
+    top: 5521px;
+    left: 680px;
+  }
+  .submit-email {
+    top: 5522px;
+    left: 974px;
+  }
+  .footer-line {
+    top: 5675px;
+    width: 985px;
+  }
+  .copy-right, .privacy-policy {
+    top: 5701px;
+  }
+  .privacy-policy {
+    left: 845px;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  .rock-logo, .shop-heading, .company-heading, .customer-service {
+    top: 6352px;
+  }
+  .shop-items, .company-items, .customer-service-items {
+    top: 6389px;
+  }
+  .follow-us {
+    top: 6600px;
+    left: 65px;
+  }
+  .instagram {
+    top: 6650px;
+    left: 65px;
+  }
+  .facebook {
+    top: 6650px;
+    left: 95px;
+  }
+  .linkedin {
+    top: 6650px;
+    left: 125px;
+  }
+  .youtube {
+    top: 6650px;
+    left: 155px;
+  }
+  .newsletter {
+    top: 6580px;
+    left: 400px;
+  }
+  .your-email {
+    top: 6635px;
+    left: 400px;
+  }
+  .submit-email {
+    top: 6635px;
+    left: 650px;
+  }
+  .footer-line {
+    top: 6740px;
+    width: 655px;
+  }
+  .copy-right {
+    top: 6800px;
+  }
+  .privacy-policy {
+    top: 6800px;
+    left: 510px;
+  }
+}
+
+@media only screen and (max-width: 747px) {
+  .rock-logo, .shop-heading, .company-heading, .customer-service {
+    top: 6952px;
+  }
+  .shop-items, .company-items, .customer-service-items {
+    top: 6989px;
+  }
+  .follow-us {
+    top: 7200px;
+    left: 65px;
+  }
+  .instagram {
+    top: 7250px;
+    left: 65px;
+  }
+  .facebook {
+    top: 7250px;
+    left: 95px;
+  }
+  .linkedin {
+    top: 7250px;
+    left: 125px;
+  }
+  .youtube {
+    top: 7250px;
+    left: 155px;
+  }
+  .newsletter {
+    top: 7180px;
+    left: 400px;
+  }
+  .your-email {
+    top: 7235px;
+    left: 400px;
+  }
+  .submit-email {
+    top: 7235px;
+    left: 650px;
+  }
+  .footer-line {
+    top: 7340px;
+    width: 655px;
+  }
+  .copy-right {
+    top: 7400px;
+  }
+  .privacy-policy {
+    top: 7400px;
+    left: 510px;
+  }
+}

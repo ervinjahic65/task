@@ -242,3 +242,95 @@
   color: #6D6D6D;
   opacity: 1;
 }
+
+/* Responsive web design */
+
+@media only screen and (max-width: 1420px) {
+  .shop-all {
+    left: 935px;
+  }
+  .arrow-right {
+    left: 1015px;
+  }
+  .elite {
+    width: 240px;
+  }
+  .dmf {
+    left: 310px;
+    width: 240px;
+  }
+  .dmf-text, .dmf-description, .dmf-heading {
+    left: 310px;
+  }
+  .elite-f {
+    left: 575px;
+    width: 240px;
+  }
+  .elite-f-heading, .elite-f-description, .elite-f-text {
+    left: 575px;
+  }
+  .westgate {
+    left: 840px;
+    width: 240px;
+  }
+  .westgate-heading, .westgate-description, .westgate-text {
+    left: 840px;
+  }
+}
+
+@media only screen and (max-width: 1130px) {
+
+  .shop-all {
+    left: 663px;
+  }
+  .arrow-right {
+    left: 778px;
+  }
+  .dmf-text, .dmf-description, .dmf-heading {
+    left: 305px;
+  }
+  .elite-f-heading, .elite-f-description, .elite-f-text {
+    left: 575px;
+  }
+  .westgate {
+    top: 2466px;
+    left: 45px;
+  }
+  .westgate-text {
+    top: 2766px;
+    left: 45px;
+  }
+  .westgate-heading {
+    top: 2800px;
+    left: 45px;
+  }
+  .westgate-description {
+    top: 2845px;
+    left: 45px;
+  }
+}
+
+@media only screen and (max-width: 835px) {
+  .shop-all {
+    left: 430px;
+  }
+  .arrow-right {
+    left: 515px;
+  }
+  .elite-f {
+    top: 2466px;
+    left: 310px;
+  }
+  .elite-f-text {
+    top: 2766px;
+    left: 310px;
+  }
+  .elite-f-heading {
+    top: 2800px;
+    left: 310px;
+  }
+  .elite-f-description {
+    top: 2845px;
+    left: 310px;
+  }
+}
