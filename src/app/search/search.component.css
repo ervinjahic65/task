@@ -60,3 +60,14 @@
 img {
   all: unset
 }
+
+/* Responsive web design */
+
+@media only screen and (max-width: 1420px) {
+  .long-search-line {
+    width: 400px;
+  }
+  .close {
+    left: 600px;
+  }
+}
