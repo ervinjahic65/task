@@ -1,4 +1,4 @@
-#I divided this project into several components and added one component at a time. It's great that I had all the css. the downside is that I didn't have all the pictures, so I had to find some pictures. It took me two days to do the task.
+#I divided this project into several components and added one component at a time. It's great that I had all the css. the downside is that I didn't have all the pictures, so I had to find some pictures. It took me two days to do the task, plus three days for responsive design later on.
 
 # <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
