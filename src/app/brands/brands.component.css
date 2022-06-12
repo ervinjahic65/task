@@ -89,7 +89,7 @@
 
 /* Responsive web design */
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1420px) {
   .top-brands {
     left: 455px;
   }
@@ -115,47 +115,48 @@
     left: 455px;
   }
 
-  @media only screen and (max-width: 1000px) {
-    .top-brands {
-      top: 940px;
-      left: 350px;
-    }
-    .eaton {
-      top: 1010px;
-    }
-    .leviton {
-      top: 1060px;
-      left: 35px;
-    }
-    .siemens {
-      top: 1010px;
-    }
-    .olutron {
-      top: 1060px;
-      left: 340px;
-    }
-    .wattstopper {
-      top: 1010px;
-    }
-    .kleintools {
-      top: 1060px;
-      left: 720px;
-    }
-    .see-brands {
-      top: 1115px;
-      left: 350px;
-    }
-  }
+}
 
-  @media only screen and (max-width: 890px) {
-    .siemens, .olutron {
-      left: 300px;
-    }
-    .wattstopper, .kleintools {
-      left: 550px;
-    }
-    .top-brands, .see-brands {
-      left: 300px;
-    }
+@media only screen and (max-width: 1000px) {
+  .top-brands {
+    top: 940px;
+    left: 350px;
+  }
+  .eaton {
+    top: 1010px;
+  }
+  .leviton {
+    top: 1060px;
+    left: 35px;
+  }
+  .siemens {
+    top: 1010px;
+  }
+  .olutron {
+    top: 1060px;
+    left: 340px;
+  }
+  .wattstopper {
+    top: 1010px;
+  }
+  .kleintools {
+    top: 1060px;
+    left: 720px;
+  }
+  .see-brands {
+    top: 1115px;
+    left: 350px;
+  }
+}
+
+@media only screen and (max-width: 890px) {
+  .siemens, .olutron {
+    left: 300px;
+  }
+  .wattstopper, .kleintools {
+    left: 550px;
+  }
+  .top-brands, .see-brands {
+    left: 300px;
   }
 }

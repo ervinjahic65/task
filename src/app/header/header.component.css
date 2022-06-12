@@ -177,10 +177,7 @@
 
 /* Responsive web design */
 
-@media only screen and (max-width: 1200px) {
-  #navigation {
-    width: 1200px;
-  }
+@media only screen and (max-width: 1420px) {
   .indoor {
     left: 205px;
   }
@@ -215,51 +212,51 @@
     left: 965px;
   }
 
-  @media only screen and (max-width: 1000px) {
-   .responsive-button {
-      display: block;
-    }
-    .indoor, .outdoor, .lighting-controls, .safety-security, .electrical, .heating-air {
-      display: none;
-    }
-    .search {
-      left: 500px;
-    }
-    .user {
-      left: 550px;
-    }
-    .shop {
-      left: 590px;
-    }
-    .badgeBlue {
-      left: 600px;
-    }
-    .not-num {
-      left: 605px;
-    }
+}
 
+@media only screen and (max-width: 1000px) {
+  .responsive-button {
+     display: block;
+   }
+   .indoor, .outdoor, .lighting-controls, .safety-security, .electrical, .heating-air {
+     display: none;
+   }
+   .search {
+     left: 500px;
+   }
+   .user {
+     left: 550px;
+   }
+   .shop {
+     left: 590px;
+   }
+   .badgeBlue {
+     left: 600px;
+   }
+   .not-num {
+     left: 605px;
+   }
+
+}
+
+@media only screen and (max-width: 635px) {
+  .responsive-button {
+    display: block;
+    left: 200px;
   }
-
-  @media only screen and (max-width: 635px) {
-    .responsive-button {
-      display: block;
-      left: 200px;
-    }
-    .search {
-      left: 370px;
-    }
-    .user {
-      left: 410px;
-    }
-    .shop {
-      left: 450px;
-    }
-    .badgeBlue {
-      left: 460px;
-    }
-    .not-num {
-      left: 465px;
-    }
+  .search {
+    left: 370px;
   }
-
+  .user {
+    left: 410px;
+  }
+  .shop {
+    left: 450px;
+  }
+  .badgeBlue {
+    left: 460px;
+  }
+  .not-num {
+    left: 465px;
+  }
 }

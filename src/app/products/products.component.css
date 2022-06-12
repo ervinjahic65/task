@@ -184,6 +184,63 @@
 
 /* Responsive web design */
 
+@media only screen and (max-width: 1610px) {
+  .right-slide {
+    left: 1540px;
+  }
+}
+
+@media only screen and (max-width: 1570px) {
+  .right-slide {
+    left: 1500px;
+  }
+}
+
+@media only screen and (max-width: 1530px) {
+  .right-slide {
+    left: 1460px;
+  }
+}
+
+@media only screen and (max-width: 1500px) {
+  .right-slide {
+    left: 1430px;
+  }
+}
+
+@media only screen and (max-width: 1470px) {
+  .right-slide {
+    left: 1400px;
+  }
+}
+
+@media only screen and (max-width: 1450px) {
+  .right-slide {
+    left: 1375px;
+  }
+}
+
+@media only screen and (max-width: 1420px) {
+  .right-slide {
+    left: 1350px;
+  }
+}
+
+@media only screen and (max-width: 1405px) {
+  .right-slide {
+    left: 1330px;
+  }
+}
+
+@media only screen and (max-width: 1375px) {
+  .right-slide {
+    left: 1120px;
+  }
+  .slide-4 {
+    visibility: hidden;
+  }
+}
+
 @media only screen and (max-width: 1200px) {
   .right-slide {
     left: 990px;

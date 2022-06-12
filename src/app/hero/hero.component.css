@@ -82,7 +82,7 @@
 
 /* Responsive web design */
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1420px) {
   .placeholder-text {
     font: normal normal normal 12px/46px Roboto;
     width: 169px;
@@ -99,44 +99,45 @@
     height: 492px;
   }
 
-  @media only screen and (max-width: 1000px) {
-    .horizontal-line {
-      top: 139px;
-    }
-    .placeholder-text {
-      top: 139px;
-      left: 250px;
-    }
-    .lorem-heading {
-      top: 185px;
-      left: 250px;
-    }
-    .shop-indoor {
-      top: 450px;
-      left: 250px;
-    }
-    .arrow-right {
-      top: 475px;
-      left: 420px;
-    }
-    .central-image {
-      top: 460px;
-      left: 50px;
-    }
-    .hero {
-      top: 550px;
-      left: 125px;
-      height: 400px;
-    }
-  }
+}
 
-  @media only screen and (max-width: 740px) {
-    .hero {
-      left: 175px;
-      width: 380px;
-    }
-    .central-image {
-      display: none;
-    }
+@media only screen and (max-width: 1000px) {
+  .horizontal-line {
+    top: 139px;
+  }
+  .placeholder-text {
+    top: 139px;
+    left: 250px;
+  }
+  .lorem-heading {
+    top: 185px;
+    left: 250px;
+  }
+  .shop-indoor {
+    top: 450px;
+    left: 250px;
+  }
+  .arrow-right {
+    top: 475px;
+    left: 420px;
+  }
+  .central-image {
+    top: 460px;
+    left: 50px;
+  }
+  .hero {
+    top: 550px;
+    left: 125px;
+    height: 400px;
+  }
+}
+
+@media only screen and (max-width: 740px) {
+  .hero {
+    left: 175px;
+    width: 380px;
+  }
+  .central-image {
+    display: none;
   }
 }
